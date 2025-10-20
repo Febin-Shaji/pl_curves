@@ -2,7 +2,7 @@ Tests passing:
 [![Python Testing](https://github.com/Febin-Shaji/pl_curves/actions/workflows/main.yml/badge.svg)](https://github.com/Febin-Shaji/pl_curves/actions/workflows/main.yml)
 
 Code coverage: 
-[![codecov](https://codecov.io/gh/Febin-Shaji/pl_curves/branch/master/graph/badge.svg)](https://codecov.io/gh/Febin-Shaji/pl_curves)
+[![codecov](https://codecov.io/gh/Febin-Shaji/pl_curves/graph/badge.svg?token=D0OL9N8MOQ)](https://codecov.io/gh/Febin-Shaji/pl_curves)
 
 # Introduction
 
