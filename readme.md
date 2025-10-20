@@ -1,8 +1,8 @@
 Tests passing:
-[![Python Testing](https://github.com/CDT-AIMLAC/pl_curves/actions/workflows/main.yml/badge.svg)](https://github.com/CDT-AIMLAC/pl_curves/actions/workflows/main.yml)
+[![Python Testing](https://github.com/Febin-Shaji/pl_curves/actions/workflows/main.yml/badge.svg)](https://github.com/Febin-Shaji/pl_curves/actions/workflows/main.yml)
 
 Code coverage: 
-[![codecov](https://codecov.io/gh/CDT-AIMLAC/pl_curves/branch/master/graph/badge.svg)](https://codecov.io/gh/CDT-AIMLAC/pl_curves)
+[![codecov](https://codecov.io/gh/Febin-Shaji/pl_curves/branch/master/graph/badge.svg)](https://codecov.io/gh/Febin-Shaji/pl_curves)
 
 # Introduction
 
@@ -12,7 +12,7 @@ This program calculates Pareto–Lorenz (PL) curves for calculating the relative
 
 1. Fork this repository
 2. Fix the badge path and test github actions
-    * Edit the URL at the top of this file to be your repository, not CDT-AIMLAC or:
+    * Edit the URL at the top of this file to be your repository, not Febin-Shaji or:
       * Click on the actions tab and choose the "Python testing" workflow.
       * Press the 3 horizontal dots on left side and click "Create status badge".
       * Copy the markdown and replace the code on line 2 of this file with it.
